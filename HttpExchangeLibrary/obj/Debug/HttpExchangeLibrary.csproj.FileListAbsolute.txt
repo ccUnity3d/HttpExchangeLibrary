@@ -1,0 +1,4 @@
+C:\Users\derek.drummond\HttpExchangeLibrary\HttpExchangeLibrary\bin\Debug\HttpExchangeLibrary.dll
+C:\Users\derek.drummond\HttpExchangeLibrary\HttpExchangeLibrary\bin\Debug\HttpExchangeLibrary.pdb
+C:\Users\derek.drummond\HttpExchangeLibrary\HttpExchangeLibrary\obj\Debug\HttpExchangeLibrary.dll
+C:\Users\derek.drummond\HttpExchangeLibrary\HttpExchangeLibrary\obj\Debug\HttpExchangeLibrary.pdb

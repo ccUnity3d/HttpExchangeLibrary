@@ -1,0 +1,7 @@
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\bin\Debug\Tests.dll
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\bin\Debug\Tests.pdb
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\bin\Debug\HttpExchangeLibrary.dll
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\bin\Debug\HttpExchangeLibrary.pdb
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\obj\Debug\Tests.dll
+C:\Users\derek.drummond\HttpExchangeLibrary\Tests\obj\Debug\Tests.pdb
